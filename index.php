@@ -32,8 +32,8 @@
   height: 100%;
 }
 .logo.header {
-    height: 600px;
-    width: 600px;
+    height: 400px;
+    width: 400px;
 }
 .logo.footer {
     height: 150px;
@@ -99,7 +99,7 @@ ul {
 .row:after {
   clear: both;
 }
-.col-sm-6, .col-md-6, .col-xs-12 {
+.col-sm-6, .col-md-6, .col-xs-12, .col-sm-4, .col-md-4, .col-sm-8, .col-md-8 {
   position: relative;
   min-height: 1px;
   padding-left: 15px;
@@ -113,11 +113,17 @@ ul {
   .container {
     width: 750px;
   }
-  .col-sm-6 {
+  .col-sm-4, .col-sm-6, .col-sm-8 {
     float: left;
   }
+  .col-sm-4 {
+    width: 33%;
+  }
   .col-sm-6 {
-    width: 50%;
+     width: 50%;
+  }
+  .col-sm-8 {
+     width: 66%;
   }
 }
 
@@ -125,11 +131,17 @@ ul {
   .container {
     width: 970px;
   }
-  .col-md-6 {
+  .col-sm-4, .col-sm-6, .col-sm-8 {
     float: left;
   }
-  .col-md-6 {
-    width: 50%;
+  .col-sm-4 {
+    width: 33%;
+  }
+  .col-sm-6 {
+     width: 50%;
+  }
+  .col-sm-8 {
+     width: 66%;
   }
 }
 @media (min-width: 1200px) {
@@ -212,24 +224,32 @@ line-height: 1.4;
   font-family: Menlo,Monaco,"Liberation Mono",Consolas,monospace !important;
 }
 
+.centerwrap {
+  display: table;
+  margin: auto;
+}
+
 </style>
 
 </head>
 <body>
 
 <section class='container'>
-          <center>
-        <header>
+        <header class='centerwrap'>
           <div class="logo header"><a href="http://www.it2v.com/"></a></div>
         </header>
-          </center>
           <hgroup>
             <h1>Welcome to www.it2v.com</h1>
           </hgroup>
 
-
         <div class="row">
-          <section class='col-xs-12 col-sm-6 col-md-6'>
+          <section class='col-xs-12 col-sm-8 col-md-8'>
+                <h2>Smontare l'obiettivo Carl Zeiss Planar 1,7 50 T*</h2>
+                  <iframe width="640" height="360" src="https://www.youtube.com/embed/XgLMUDWHiVw" frameborder="0" allowfullscreen></iframe>
+                <h3>______</h3>
+                <p></p>
+          </section>
+          <section class="col-xs-12 col-sm-4 col-md-4">
             <section>
               <h2>Coming soon</h2>
                 <p>work in progress</p>
@@ -239,15 +259,6 @@ line-height: 1.4;
 photocamera lenses
 and other</pre>
             </section>
-
-          </section>
-          <section class="col-xs-12 col-sm-6 col-md-6">
-
-                <h2>______</h2>
-
-                <h3>______</h3>
-                <p>....</p>
-
           </section>
         </div>
 
