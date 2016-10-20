@@ -180,7 +180,7 @@
 </div>
 
 <!-- Container -->
-<div class="w3-container" style="position:relative">
+<div class="w3-hide w3-container" style="position:relative">
   <a onclick="w3_open()" class="w3-btn-floating-large w3-deep-orange" style="position:absolute;top:-28px;right:24px;z-index:0;">
   <i class="fa fa-plus"></i></a>
 </div>
