@@ -281,6 +281,7 @@
 </div>
 
 <!-- Google Maps -->
+<!--
 <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="map">
 <div id="googleMap" style="width:100%;height:320px;"></div>
 <script src="https://maps.googleapis.com/maps/api/js"></script>
@@ -308,6 +309,7 @@ marker.setMap(map);
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 </div>
+-->
 
 <!-- Footer -->
 <footer class="w3-container w3-padding-32 w3-theme-d1 w3-center" id="footer-search">
