@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>I Turn 2 Vintage</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="lib/w3.css">
 <link rel="stylesheet" href="lib/w3-theme-black.css">
 <link rel="stylesheet" href="lib/font-awesome-4.6.3/css/font-awesome.min.css">
