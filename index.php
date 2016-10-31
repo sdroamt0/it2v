@@ -126,39 +126,46 @@
 <!-- Work Row -->
 <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
 
-<div class="w3-quarter">
-<h2>I Nostri Lavori</h2>
-<p>Qui si possono vedere alcuni dei nostri lavori di revisione e riparazione di obiettivi fotografici, ...</p>
+<div class="w3-quarter w3-padding-4">
+<h2>Lavori</h2>
+<p>Lavori di revisione e riparazione di obiettivi fotografici</p>
 </div>
 
-<div class="w3-threequarter">
+<div class="w3-threequarter w3-padding-4">
 <div class="w3-card-2 w3-white">
   <!-- <img src="/w3images/fjords.jpg" alt="Vernazza" style="width:100%"> -->
   <div class="w3-container">
   <h3>Carl Zeiss Planar 1,7/50 T*</h3>
   <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" src="https://www.youtube.com/embed/XgLMUDWHiVw" frameborder="0" allowfullscreen></iframe>
+  <!-- <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" frameborder="5" allowfullscreen></iframe> -->
   <h4>Descrizione</h4>
   <p>L'obiettivo presentava: tracce interne di sporco; l'anello della messa a fuoco sganciato; la separazione di una delle elicoidi responsabili del movimento del sistema di lenti.</p>
   <p>Si &egrave; quindi proceduto con lo smontaggio per:<ul>
   <li>reinserire nella corretta posizione l'elicoide</li>
   <li>riagganciare l'anello della messa a fuoco</li>
-  <li>calibrazione della scala delle distanze</li>
+  <li>calibrare la scala delle distanze</li>
   <li>ripulire lo sporco dai singoli <a href="https://en.wikipedia.org/wiki/Lens_(optics)">elementi/gruppi di lenti</a></li
   </ul></p>
   </div>
   </div>
 </div>
 
-<div class="w3-hide w3-threequarter">
+<div class="w3-quarter w3-padding-4">
+<h2> </h2>
+<p> </p>
+</div>
+
+<div class="w3-threequarter w3-padding-4">
  <div class="w3-card-2 w3-white">
-  <img src="/w3images/lights.jpg" alt="Cinque Terre" style="width:100%">
+  <!--<img src="/w3images/lights.jpg" alt="Cinque Terre" style="width:100%"> -->
   <div class="w3-container">
-  <h3>Customer 2</h3>
-  <h4>Trade</h4>
-  <p>Blablabla</p>
-  <p>Blablabla</p>
-  <p>Blablabla</p>
-  <p>Blablabla</p>
+  <h3>Nikkor AF S 18-70mm f1:3.5-4.5G ED DX</h3>
+  <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" src="https://www.youtube.com/embed/1Hm_ckBbCo0" frameborder="0" allowfullscreen></iframe>
+  <!-- <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" frameborder="5" allowfullscreen></iframe> -->
+  <h4>Descrizione</h4>
+  <p>L'obiettivo presentava esternamente un parziale disaccoppiamento della parte posteriore dalla parte anteriore.</p>
+  <p>Una volta smontata la parte posteriore si è verificato che il problema consisteva nella rottura dell'anello di supporto che collega la parte anteriore della lente con quella posteriore.</p>
+  <p>Si è quindi provveduto a rimpiazzare l'anello rotto.</p>
   </div>
  </div>
 </div>
@@ -255,7 +262,7 @@
       <h3>Recapiti</h3>
       <p class="w3-hide">Swing by for a cup of coffee, or whatever.</p>
       <p><i class="fa fa-map-marker w3-text-deep-orange w3-xlarge"></i>&nbsp;Perugia, IT</p>
-      <p><i class="fa fa-whatsapp w3-text-deep-orange w3-xlarge"></i>&nbsp;+39 388 632 8393</a></p>
+      <p class="w3-hide"><i class="fa fa-whatsapp w3-text-deep-orange w3-xlarge"></i>&nbsp;+39 xxx xxx xxxx</a></p>
       <p><i class="fa fa-envelope-o w3-text-deep-orange w3-xlarge"></i>&nbsp;&nbsp;info<i class="fa fa-at w3-text-deep-orange"></i>it2v.com</p>
     </div>
     <div class="w3-col m7">
