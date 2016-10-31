@@ -164,8 +164,8 @@
   <!-- <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" frameborder="5" allowfullscreen></iframe> -->
   <h4>Descrizione</h4>
   <p>L'obiettivo presentava esternamente un parziale disaccoppiamento della parte posteriore dalla parte anteriore.</p>
-  <p>Una volta smontata la parte posteriore si è verificato che il problema consisteva nella rottura dell'anello di supporto che collega la parte anteriore della lente con quella posteriore.</p>
-  <p>Si è quindi provveduto a rimpiazzare l'anello rotto.</p>
+  <p>Una volta smontata la parte posteriore si &egrave; verificato che il problema consisteva nella rottura dell'anello di supporto che collega la parte anteriore della lente con quella posteriore.</p>
+  <p>Si &egrave; quindi provveduto a rimpiazzare l'anello rotto.</p>
   </div>
  </div>
 </div>
