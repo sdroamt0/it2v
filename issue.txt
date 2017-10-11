@@ -1,1 +1,3 @@
-Just migrated to openshift 3
+- 2017-10-11 Added Nikon FE dismantling video
+- 2017-10-10 Added tubes folder and subfolder
+- 2017-09-28 Just migrated to openshift 3

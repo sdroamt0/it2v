@@ -32,12 +32,12 @@
   <li class="w3-hide-small"><a href="#work" class="w3-hover-white">Lavori</a></li>
   <li class="w3-hide w3-hide-small"><a href="#pricing" class="w3-hover-white">Price</a></li>
   <li class="w3-hide-small"><a href="#contact" class="w3-hover-white">Contatti</a></li>
-  <li class="w3-hide w3-hide-small w3-dropdown-hover">
-    <a href="javascript:void(0);" title="Notifications">Dropdown <i class="fa fa-caret-down"></i></a>
+  <li class="w3-hide-small w3-dropdown-hover">
+    <a href="javascript:void(0);" title="Notifications">Vai a: <i class="fa fa-caret-down"></i></a>
     <div class="w3-dropdown-content w3-white w3-card-4">
-      <a href="#">Link</a>
-      <a href="#">Link</a>
-      <a href="#">Link</a>
+      <a href="#zeiss-planar-1.7-50">Carl Zeiss Planar 1,7/50 T*</a>
+      <a href="#nikkor-af-s-18-70-3.5-4.5g-ed-dx">Nikkor AF S 18-70mm f1:3.5-4.5G ED DX</a>
+      <a href="#nikon-fe-dismantle">Nikon FE dismantle</a>
     </div>
   </li>
   <li class="w3-hide-small w3-right"><a href="#footer-search" class="w3-hover-deep-orange" title="Seguici"><i class="fa fa-search"></i></a></li>
@@ -51,12 +51,12 @@
       <li class="w3-hide"><a href="#pricing">Price</a></li>
       <li><a href="#contact">Contatti</a></li>
       <li><a href="#footer-search">Seguici</a></li>
-      <li class="w3-hide w3-dropdown-hover">
-      <a href="javascript:void(0);" title="Notifications">Dropdown <i class="fa fa-caret-down"></i></a>
+      <li class="w3-dropdown-hover">
+      <a href="javascript:void(0);" title="Notifications">Vai a: <i class="fa fa-caret-down"></i></a>
       <div class="w3-dropdown-content w3-light-grey w3-card-4">
-        <a href="#">Link</a>
-        <a href="#">Link</a>
-        <a href="#">Link</a>
+        <a href="#zeiss-planar-1.7-50">Carl Zeiss Planar 1,7/50 T*</a>
+        <a href="#nikkor-af-s-18-70-3.5-4.5g-ed-dx">Nikkor AF S 18-70mm f1:3.5-4.5G ED DX</a>
+        <a href="#nikon-fe-dismantle">Nikon FE dismantle</a>
       </div>
       </li>
     </ul>
@@ -123,15 +123,15 @@
 </div>
 </div>
 
-<!-- Work Row -->
+<!-- START Work Row -->
 <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
-
+<!-- START Carl Zeiss Planar 1,7/50 T* -->
 <div class="w3-quarter w3-padding-4">
 <h2>Lavori</h2>
 <p>Lavori di revisione e riparazione di obiettivi fotografici</p>
 </div>
 
-<div class="w3-threequarter w3-padding-4">
+<div class="w3-threequarter w3-padding-4" id="zeiss-planar-1.7-50">
 <div class="w3-card-2 w3-white">
   <!-- <img src="/w3images/fjords.jpg" alt="Vernazza" style="width:100%"> -->
   <div class="w3-container">
@@ -149,13 +149,14 @@
   </div>
   </div>
 </div>
-
+<!-- END Carl Zeiss Planar 1,7/50 T* -->
+<!-- START Nikkor AF S 18-70mm f1:3.5-4.5G ED DX -->
 <div class="w3-quarter w3-padding-4">
 <h2> </h2>
 <p> </p>
 </div>
 
-<div class="w3-threequarter w3-padding-4">
+<div class="w3-threequarter w3-padding-4" id="nikkor-af-s-18-70-3.5-4.5g-ed-dx">
  <div class="w3-card-2 w3-white">
   <!--<img src="/w3images/lights.jpg" alt="Cinque Terre" style="width:100%"> -->
   <div class="w3-container">
@@ -169,7 +170,29 @@
   </div>
  </div>
 </div>
+<!-- END Nikkor AF S 18-70mm f1:3.5-4.5G ED DX -->
+<!-- START Nikon FE dismantle -->
+<div class="w3-quarter w3-padding-4">
+<h2> </h2>
+<p> </p>
+</div>
 
+<div class="w3-threequarter w3-padding-4" id="nikon-fe-dismantle">
+ <div class="w3-card-2 w3-white">
+  <!--<img src="/w3images/lights.jpg" alt="Cinque Terre" style="width:100%"> -->
+  <div class="w3-container">
+  <h3>Nikon FE dismantle</h3>
+  <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" src="https://www.youtube.com/embed/VKOvnC2_1Cg" frameborder="0" allowfullscreen></iframe>
+  <!-- <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" frameborder="5" allowfullscreen></iframe> -->
+  <h4>Descrizione</h4>
+  <p>Questa (gloriosa) Nikon analogica aveva la leva dell'avanzamento pellicola che, una volta caricata per lo scatto, continuava a muoversi a vuoto. Questo non consentiva di scattare lasciava fermo lo specchio.</p>
+  <p>Inoltre, l'anello a molla, che normalmente ha la funzione di "indicizzare" l'apertura degli anelli AI (automatic indexing) per regolare (e/o suggerire) di conseguenza i tempi di scatto, non ritornava in posizione non consentendo quindi di effettuare una corretta esposizione.</p>
+  <p>Per sistemare la leva di avanzamento della pellicola &egrave; stato sufficiente smontare la parte inferiore della fotocamera.</p>
+  <p>Per sistemare l'anello di indicizzazione delgi obiettivi &egrave; stato necessario smontare la parte anteriore e la parte superiore, compreso il delicato meccanismo di regolazione ISO/ASA e compensazione dell'esposizione.</p>
+  </div>
+ </div>
+</div>
+<!-- END Nikon FE dismantle -->
 <div class="w3-hide w3-threequarter">
  <div class="w3-card-2 w3-white">
   <img src="/w3images/mountains.jpg" alt="Monterosso" style="width:100%">
@@ -185,6 +208,7 @@
 </div>
 
 </div>
+<!-- END Work Row -->
 
 <!-- Container -->
 <div class="w3-hide w3-container" style="position:relative">
