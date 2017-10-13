@@ -186,7 +186,7 @@
   <!-- <iframe class="w3-container" style="width:100%;min-height:120px;max-height:360px;" width="640" height="360" frameborder="5" allowfullscreen></iframe> -->
   <h4>Descrizione</h4>
   <p>Questa (gloriosa) Nikon analogica aveva la leva dell'avanzamento pellicola che, una volta caricata per lo scatto, continuava a muoversi a vuoto. Questo non consentiva di scattare e lasciava fermo lo specchio.</p>
-  <p>Inoltre, l'anello a molla, che normalmente ha la funzione di "indicizzare" l'apertura degli anelli AI (automatic indexing) per regolare (e/o suggerire) di conseguenza i tempi di scatto, non ritornava in posizione non consentendo quindi di effettuare una corretta esposizione.</p>
+  <p>Inoltre, l'anello a molla, che normalmente ha la funzione di "indicizzare" l'apertura degli obiettivi AI (automatic indexing) per regolare (e/o suggerire) di conseguenza i tempi di scatto, non ritornava in posizione non consentendo quindi di effettuare una corretta esposizione.</p>
   <p>Per sistemare la leva di avanzamento della pellicola &egrave; stato sufficiente smontare la parte inferiore della fotocamera.</p>
   <p>Per sistemare l'anello di indicizzazione degli obiettivi &egrave; stato necessario smontare la parte anteriore e la parte superiore, compreso il delicato meccanismo di regolazione ISO/ASA e compensazione dell'esposizione.</p>
   </div>
