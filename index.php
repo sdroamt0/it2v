@@ -7,6 +7,15 @@
 <link rel="stylesheet" href="lib/w3.css">
 <link rel="stylesheet" href="lib/w3-theme-black.css">
 <link rel="stylesheet" href="lib/font-awesome-4.6.3/css/font-awesome.min.css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8243295-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-8243295-6');
+</script>
 <body id="myPage">
 
 <!-- Side Navigation on click -->
