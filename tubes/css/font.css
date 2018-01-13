@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'MAGNETOB';
+	src: url('./MAGNETOB.eot');
+	src: local('MAGNETOB'), url('./MAGNETOB.woff') format('woff'), url('./MAGNETOB.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_9782">Text with this font applied</p> */
+.fontsforweb_fontid_9782 {
+	font-family: 'MAGNETOB' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
